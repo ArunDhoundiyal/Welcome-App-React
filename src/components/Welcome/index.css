@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.card-container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-style {
+  color: #f0bb03;
+  font-family: Bree Serif;
+  font-size: 80px;
+}
+.paragraph-style {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 35px;
+}
+.button-style {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: Bree Serif;
+  border-radius: 12px;
+  height: 50px;
+  width: 120px;
+  font-weight: bold;
+  border-width: solid 0px;
+}
